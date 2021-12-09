@@ -45,11 +45,6 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Microsoft Edge- Best Trick Ever](https://www.youtube.com/watch?v=hHLIOzy8-co)
-- [Shadow Of The Tomb Raider | Benchmark | Radeon RX-590](https://www.youtube.com/watch?v=B9_tFpTkmWQ)
-- [PUBG Mobile Live Stream #9](https://www.youtube.com/watch?v=cMVOk33mlpM)
-- [PUBG Mobile Live Stream #7](https://www.youtube.com/watch?v=-rl0WEc2ECA)
-- [PUBG Mobile Live Stream #8](https://www.youtube.com/watch?v=-Tez08L9QBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
@@ -57,7 +52,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: (https://twitter.com/shafkathasanbd){:target="_blank"}
+[twitter]: (https://twitter.com/shafkathasanbd){:target="_blank"}.
 [youtube]: https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw
 [instagram]: https://www.instagram.com/Shafkathasan
 [linkedin]: https://www.linkedin.com/in/Shafkathasan
