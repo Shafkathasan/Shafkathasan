@@ -17,14 +17,14 @@
 [<img align="left" alt="Shafkathasan | Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
 [<img align="left" alt="Shafkathasan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Shafkathasan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
-<br/>
+<!--<br/>
 
 [<img align="left" alt="Shafkathasan | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 [<img align="left" alt="Shafkathasan | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="Shafkathasan | Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />][pinterest]
 [<img align="left" alt="Shafkathasan | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
-<!-- [<img align="left" alt="Shafkathasan.com" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shafkathasan.com" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
 [<img align="left" alt="Shafkathasan | YouTube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v6/icons/youtube.svg" class="youtube-color"/>][youtube]
 [<img align="left" alt="Shafkathasan | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
