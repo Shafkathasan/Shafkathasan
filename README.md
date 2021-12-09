@@ -2,11 +2,11 @@
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to learn new things with other content creators
-- 🥅 2021 Goals: Share my Ideas with Everyone 
-- ⚡ Fun fact: I finding new Ideas
+- 🔭 &nbsp;I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🌱 &nbsp;I’m currently learning everything 🤣
+- 👯 &nbsp;I’m looking to learn new things with other content creators
+- 🥅 &nbsp;2021 Goals: Share my Ideas with Everyone 
+- ⚡ &nbsp;Fun fact: I finding new Ideas
 
 ### Connect with me:
 
