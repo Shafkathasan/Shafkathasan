@@ -51,6 +51,7 @@
 
 </details>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafkathasan&show_icons=true&locale=en" alt="shafkathasan" /></p>
 
 [website]: http://www.shafkathasan.me
 [course]: http://vsCodeHero.com
