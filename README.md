@@ -52,7 +52,7 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/shafkathasanbd
+[twitter]: (https://twitter.com/shafkathasanbd){:target="_blank"}
 [youtube]: https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw
 [instagram]: https://www.instagram.com/Shafkathasan
 [linkedin]: https://www.linkedin.com/in/Shafkathasan
