@@ -64,7 +64,7 @@
 [facebook]: https://www.facebook.com/shafkathasanbd/
 [twitter]: https://twitter.com/shafkathasanbd
 [youtube]: https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw
-[instagram]: https://www.instagram.com/Shafkathasan
+[instagram]: https://www.instagram.com/Shafkathasan/
 [linkedin]: https://www.linkedin.com/in/Shafkathasan
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
