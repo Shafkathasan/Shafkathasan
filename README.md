@@ -2,11 +2,12 @@
 
 ## I'm a Student, Developer, and YouTuber!!
 
-- 🔭 &nbsp;I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 &nbsp;I’m currently learning everything 🤣
-- 👯 &nbsp;I’m looking to learn new things with other content creators
-- 🥅 &nbsp;2021 Goals: Share my Ideas with Everyone 
-- ⚡ &nbsp;Fun fact: I finding new Ideas
+- 🔭 &nbsp;I’m currently working on something cool :wink:
+- 🌱 &nbsp;I’m currently learning Java, Htmal, Phyon etc.
+- 💬 &nbsp;Ask me about anything related to Javascript/Typescript/Python or Angular/React/Express/Flask
+- 📫 &nbsp;How to reach me: [@shafkathasan](https://m.me/shafkathasanbd) or <a rel="me" href="https://twitter.com/shafkathasanbd">twitter.com/@shafkathasanbd</a>
+- 👨‍💻 &nbsp;Read more about my projects at [shafkathasan.me](http://www.shafkathasan.me)
+- ⚡ &nbsp;Fun fact: I :heart: :mountain_snow:
 
 ### Connect with me:
 
