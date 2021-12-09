@@ -10,11 +10,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Shafkathasan.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Shafkathasan | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="Shafkathasan | Twitter" width="22px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
-[<img align="left" alt="Shafkathasan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Shafkathasan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Shafkathasan.com" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Shafkathasan | YouTube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Shafkathasan | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
+[<img align="left" alt="Shafkathasan | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
 
