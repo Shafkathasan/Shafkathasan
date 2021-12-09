@@ -22,6 +22,7 @@
 [<img align="left" alt="Shafkathasan | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 [<img align="left" alt="Shafkathasan | Discord" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][discord]
 [<img align="left" alt="Shafkathasan | Pinterest" src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />][pinterest]
+[<img align="left" alt="Shafkathasan | Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />][telegram]
 
 <!-- [<img align="left" alt="Shafkathasan.com" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
@@ -85,3 +86,4 @@
 [spotify]: https://open.spotify.com/user/21mbvn47uzcl3m7ooja7j2sny
 [discord]: https://discord.com/users/290132748264275970
 [pinterest]: https://www.pinterest.com/shafkathasan/
+[telegram]: https://t.me/shafkathasan
