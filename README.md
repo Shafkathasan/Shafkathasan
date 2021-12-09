@@ -44,6 +44,16 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
+---
+
+<details>
+  <summary>:zap: Recent GitHub Activity</summary>
+  
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
 
 [website]: http://www.shafkathasan.me
 [course]: http://vsCodeHero.com
