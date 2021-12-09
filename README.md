@@ -35,6 +35,7 @@
 
 ---
 <table><tr><td valign="top" width="50%">
+
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
@@ -49,7 +50,7 @@
 
 </td><td valign="top" width="50%">
 
-### :bird: Twitter Feeds
+### :small_blue_diamond: Twitter Feeds
 
 [![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shafkathasanbd)](https://github.com/gazf/github-readme-twitter)
 
