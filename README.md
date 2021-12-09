@@ -52,8 +52,8 @@
 
 [website]: https://codeSTACKr.com
 [course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/shafkathasanbd
-[youtube]: https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw
+[twitter]: (https://twitter.com/shafkathasanbd){target="_blank"}
+[youtube]: (https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw){target="_blank"}
 [instagram]: https://www.instagram.com/Shafkathasan
 [linkedin]: https://www.linkedin.com/in/Shafkathasan
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
