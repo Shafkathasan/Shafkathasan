@@ -1,6 +1,6 @@
 ### Hi there, I'm Shafkat - aka [Shafkat Hasan][website] <a href="http://www.shafkathasan.me"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
+[![Visits Badge](https://badges.pufler.dev/visits/shafkathasan/git-badges)](https://badges.pufler.dev)
 
 ## I'm a Student, Developer, and YouTuber!!
 
