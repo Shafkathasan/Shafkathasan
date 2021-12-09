@@ -20,8 +20,6 @@
 
 <br />
 
-### Languages and Tools:
-
 <details>
   <summary><b>🛠️&nbsp;&nbsp;Languages&nbsp;and&nbsp;Tools</b></summary>
   <br/>
