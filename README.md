@@ -18,8 +18,8 @@
 [<img align="left" alt="Shafkathasan | LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="Shafkathasan | Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br/>
-[<img align="left" alt="Shafkathasan | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
+[<img align="left" alt="Shafkathasan | Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />][spotify]
 
 <!-- [<img align="left" alt="Shafkathasan.com" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
