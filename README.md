@@ -1,4 +1,4 @@
-### Hi there, I'm Shafkat - aka [Shafkat Hasan][website] <a href="https://www.gautamkrishnar.com/"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Shafkat - aka [Shafkat Hasan][website] <a href="https://sites.google.com/view/shafkathasan"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
 ## I'm a Student, Developer, and YouTuber!!
 
@@ -50,7 +50,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
 
-[website]: https://codeSTACKr.com
+[website]: https://sites.google.com/view/shafkathasan
 [course]: http://vsCodeHero.com
 [twitter]: https://twitter.com/shafkathasanbd
 [youtube]: https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw
