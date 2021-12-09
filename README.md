@@ -48,8 +48,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
-<p align="right">
-[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shafkathasanbd)][twitter]</p>
+
+[![github-readme-twitter](https://github-readme-twitter.gazf.vercel.app/api?id=shafkathasanbd)][twitter]
 
 
 ---
