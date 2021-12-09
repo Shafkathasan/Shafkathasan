@@ -45,7 +45,7 @@
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
 
-[website]: https://sites.google.com/view/shafkathasan
+[website]: http://www.shafkathasan.me
 [course]: http://vsCodeHero.com
 [facebook]: https://www.facebook.com/shafkathasanbd/
 [twitter]: https://twitter.com/shafkathasanbd
