@@ -13,7 +13,7 @@
 
 [<img align="left" alt="Shafkathasan.com" height="30" width="40" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/facebook.svg" />][facebook]
-[<img align="left" alt="Shafkathasan | YouTube" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Shafkathasan | YouTube" height="30" width="40" src="#FF0000" />][youtube]
 [<img align="left" alt="Shafkathasan | Twitter" height="30" width="40" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/twitter.svg" />][twitter]
 [<img align="left" alt="Shafkathasan | LinkedIn" height="30" width="40" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram]
