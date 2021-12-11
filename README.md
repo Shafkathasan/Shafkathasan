@@ -9,7 +9,7 @@
 - 👨‍💻 &nbsp;Read more about my projects at [shafkathasan.me](http://www.shafkathasan.me)
 - ⚡ &nbsp;Fun fact: I :heart: :mountain_snow:
 
-### <img src="https://c.tenor.com/dhfraztxBo8AAAAi/globe-joypixels.gif" width="25px"> Connect with me:
+### <img src="https://c.tenor.com/dhfraztxBo8AAAAi/globe-joypixels.gif" width="20px"> Connect with me:
 
 [<img align="left" alt="Shafkathasan.me | Myslf" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" />][website]
 [<img align="left" alt="Shafkathasan | Instagram" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />][facebook]
