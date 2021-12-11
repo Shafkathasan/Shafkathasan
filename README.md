@@ -5,7 +5,7 @@
 - 🔭 &nbsp;I’m currently working on something cool <img src="https://c.tenor.com/StmGV2_YmjEAAAAi/winking-face-joypixels.gif" width="18px">
 - 🌱 &nbsp;I’m currently learning Java, Html, Phyon etc.
 - 💬 &nbsp;Ask me about anything related to Java/Htmal/Pyhon or YouTube/Video/Photo Editing
-- 📫 &nbsp;How to reach me: [@shafkathasan](https://m.me/shafkathasanbd) or <a rel="me" href="https://twitter.com/shafkathasanbd">twitter.com/@shafkathasanbd</a>
+- 📫 &nbsp;How to reach me: [@shafkathasan](https://m.me/shafkathasanbd) or <a rel="me" href="https://twitter.com/shafkathasanbd">twitter.com/@shafkathasanbd</a> <img src="https://c.tenor.com/kgojlK4uHG4AAAAi/thought-balloon-joypixels.gif" width="18px">
 - 👨‍💻 &nbsp;Read more about my projects at [shafkathasan.me](http://www.shafkathasan.me)
 - ⚡ &nbsp;Fun fact: I :heart: :mountain_snow:
 
