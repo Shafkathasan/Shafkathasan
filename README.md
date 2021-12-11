@@ -32,7 +32,7 @@
 [<img align="left" alt="Shafkathasan | Instagram" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />][instagram] -->
 
 <br/>
-<br/>
+
 ---
 
 
