@@ -1,4 +1,4 @@
-### Hi there, I'm Shafkat - aka [Shafkat Hasan][website] <a href="https://www.facebook.com/shafkathasanbd"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
+### Hi there, I'm Shafkat - aka [Shafkat Hasan][website] <a href="https://www.facebook.com/shafkathasanbd"><img src="emoji/waving-hand-joypixels.gif" width="25px"></a>
 
 ## I'm a Student, Developer, and YouTuber!!
 
