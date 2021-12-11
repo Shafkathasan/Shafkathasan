@@ -3,7 +3,7 @@
 ## I'm a Student, Developer, and YouTuber!!
 
 - 🔭 &nbsp;I’m currently working on something cool <img src="emoji/winking-face-joypixels.gif" width="18px">
-- 🌱 &nbsp;I’m currently learning Java, Html, Phyon etc.
+- 🌱 &nbsp;I’m currently learning Java, Html, Phyon etc. <img src="emoji/writing-hand-joypixels.gif" width="18px">
 - 💬 &nbsp;Ask me about anything related to Java/Htmal/Pyhon or YouTube/Video/Photo Editing
 - 📫 &nbsp;How to reach me: [@shafkathasan](https://m.me/shafkathasanbd) or <a rel="me" href="https://twitter.com/shafkathasanbd">twitter.com/@shafkathasanbd</a>
 - 👨‍💻 &nbsp;Read more about my projects at [shafkathasan.me](http://www.shafkathasan.me)
