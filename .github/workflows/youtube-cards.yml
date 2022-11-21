@@ -15,7 +15,7 @@ jobs:
       - uses: DenverCoder1/github-readme-youtube-cards@main
         with:
           channel_id: UCn4kiCXKHLjVLCn2HS1DdMw
-            comment_tag_name: EXAMPLE-YOUTUBE-CARDS
+            comment_tag_name: "YOUTUBE-CARDS"
           youtube_api_key: ${{ secrets.YOUTUBE_API_KEY }}
           show_duration: true
           theme_context_light: '{ "background_color": "#ffffff", "title_color": "#24292f", "stats_color": "#57606a" }'
