@@ -101,9 +101,9 @@
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
   
-  <!-- https://github.com/jamesgeorge007/github-activity-readme -->
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
+
 </details>
 
 ### 🎧 Listening Music
