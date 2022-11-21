@@ -42,6 +42,9 @@
 
 ### 📺 Latest YouTube Videos
 
+<!-- BEGIN YOUTUBE-CARDS -->
+<!-- END YOUTUBE-CARDS -->
+#
 <!-- YOUTUBE:START -->
 - [CSE360 &lpar;Sec03&rpar; Group 04 Lab Presentation](https://www.youtube.com/watch?v=n7t8ucUB1Pw)
 - [Nebula transformation v1 Live Wallpaper](https://www.youtube.com/watch?v=cT7xmzcP804)
@@ -52,6 +55,7 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
+[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>(https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
 ---
 
