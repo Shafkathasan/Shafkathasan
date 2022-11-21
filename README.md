@@ -43,11 +43,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [CSE360 &lpar;Sec03&rpar; Group 04 Lab Presentation](https://www.youtube.com/watch?v=n7t8ucUB1Pw)
+- [Nebula transformation v1 Live Wallpaper](https://www.youtube.com/watch?v=cT7xmzcP804)
 - [Microsoft Edge- Best Trick Ever](https://www.youtube.com/watch?v=hHLIOzy8-co)
 - [Shadow Of The Tomb Raider | Benchmark | Radeon RX-590](https://www.youtube.com/watch?v=B9_tFpTkmWQ)
 - [PUBG Mobile Live Stream #9](https://www.youtube.com/watch?v=cMVOk33mlpM)
-- [PUBG Mobile Live Stream #7](https://www.youtube.com/watch?v=-rl0WEc2ECA)
-- [PUBG Mobile Live Stream #8](https://www.youtube.com/watch?v=-Tez08L9QBc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
