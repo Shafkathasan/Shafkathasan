@@ -40,6 +40,7 @@
 
 #
 
+<details> 
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
@@ -92,8 +93,8 @@
 
 ➡️ [more videos...](https://www.youtube.com/channel/UCn4kiCXKHLjVLCn2HS1DdMw)
 
+</details>
 
----
 
 
 ### 🎧 Listening Music
