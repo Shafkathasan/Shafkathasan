@@ -76,6 +76,7 @@
 
 </details>
 
+---
 ### 🎧 Listening Music
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true)
 
