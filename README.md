@@ -1,7 +1,7 @@
 ### Hi there, I'm Shafkat - aka [Shafkat Hasan][website] <a href="https://www.facebook.com/shafkathasanbd"><img src="emoji/waving-hand-joypixels.gif" width="25px"></a>
 
 ## I'm a Student, Developer, and YouTuber!!
-[<img align="right" width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false">](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true)
+
 - 🔭 &nbsp;I’m currently working on something cool <img src="emoji/winking-face-joypixels.gif" width="18px">
 - 🌱 &nbsp;I’m currently learning Java, Html, Phyon etc. <img src="emoji/writing-hand-joypixels.gif" width="18px">
 - 💬 &nbsp;Ask me about anything related to Java/Htmal/Pyhon or YouTube/Video/Photo Editing
@@ -79,7 +79,7 @@
 
 </details>
 
-  <!--
+---
 <table>
 <tr>
 <td valign="top" width="60%">
@@ -98,7 +98,7 @@
  </td>
 </tr>
 </table>
-
+<!--
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true" target="_blank"  style="float:right">![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)</a>
 
 [<img align="right" width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false">](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true)
