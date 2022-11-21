@@ -43,6 +43,12 @@
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![CSE360 (Sec03) Group 04 Lab Presentation](https://ytcards.demolab.com/?id=n7t8ucUB1Pw&title=CSE360+%28Sec03%29+Group+04+Lab+Presentation&lang=en&timestamp=1646416162&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "CSE360 (Sec03) Group 04 Lab Presentation")](https://www.youtube.com/watch?v=n7t8ucUB1Pw)
+[![Nebula transformation v1 Live Wallpaper](https://ytcards.demolab.com/?id=cT7xmzcP804&title=Nebula+transformation+v1+Live+Wallpaper&lang=en&timestamp=1645425551&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Nebula transformation v1 Live Wallpaper")](https://www.youtube.com/watch?v=cT7xmzcP804)
+[![Microsoft Edge- Best Trick Ever](https://ytcards.demolab.com/?id=hHLIOzy8-co&title=Microsoft+Edge-+Best+Trick+Ever&lang=en&timestamp=1572199310&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Microsoft Edge- Best Trick Ever")](https://www.youtube.com/watch?v=hHLIOzy8-co)
+[![Shadow Of The Tomb Raider | Benchmark | Radeon RX-590](https://ytcards.demolab.com/?id=B9_tFpTkmWQ&title=Shadow+Of+The+Tomb+Raider+%7C+Benchmark+%7C+Radeon+RX-590&lang=en&timestamp=1568889781&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Shadow Of The Tomb Raider | Benchmark | Radeon RX-590")](https://www.youtube.com/watch?v=B9_tFpTkmWQ)
+[![PUBG Mobile Live Stream #9](https://ytcards.demolab.com/?id=cMVOk33mlpM&title=PUBG+Mobile+Live+Stream+%239&lang=en&timestamp=1567689516&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "PUBG Mobile Live Stream #9")](https://www.youtube.com/watch?v=cMVOk33mlpM)
+[![PUBG Mobile Live Stream #7](https://ytcards.demolab.com/?id=-rl0WEc2ECA&title=PUBG+Mobile+Live+Stream+%237&lang=en&timestamp=1567687020&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "PUBG Mobile Live Stream #7")](https://www.youtube.com/watch?v=-rl0WEc2ECA)
 <!-- END YOUTUBE-CARDS -->
 
 #
