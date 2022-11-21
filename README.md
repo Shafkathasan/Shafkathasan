@@ -70,7 +70,7 @@
 
 <details> 
   <summary><h2>📊 Github Stats and Activity</h2></summary>
-<a href="https://github.com/Shafkathasan">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafkathasan&show_icons=true&locale=en" alt="shafkathasan" /></a>
+<a href="https://github.com/Shafkathasan">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafkathasan&show_icons=true&theme=tokyonight" alt="shafkathasan" /></a>
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
