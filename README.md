@@ -99,6 +99,8 @@
 
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true" target="_blank"  style="float:right">![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)</a>
 
+[<img align="right" width="40%" src="https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false">](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true)
+
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafkathasan&show_icons=true&locale=en" alt="shafkathasan" /></p> -->
 
 [website]: https://linktr.ee/shafkathasan
