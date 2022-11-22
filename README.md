@@ -75,7 +75,7 @@
   <summary><h2>📊 Github Stats and Activity</h2></summary>
 <a href="https://github.com/Shafkathasan">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shafkathasan&show_icons=true&theme=tokyonight" alt="shafkathasan" /></a>
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#46](https://github.com/ValerioLyndon/Theme-Customiser/issues/46) in [ValerioLyndon/Theme-Customiser](https://github.com/ValerioLyndon/Theme-Customiser)
+
 <!--END_SECTION:activity-->
 
 </details>
