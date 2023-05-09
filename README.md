@@ -80,6 +80,7 @@
 
 </details>
 
+<!--
 ---
 <table>
 <tr>
@@ -99,6 +100,7 @@
  </td>
 </tr>
 </table>
+
 <!--
 <a href="https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&redirect=true" target="_blank"  style="float:right">![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21mbvn47uzcl3m7ooja7j2sny&cover_image=true&theme=novatorem&bar_color=000000&bar_color_cover=false)</a>
 
