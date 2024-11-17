@@ -12,6 +12,6 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      # - uses: Shafkathasan/Shafkathasan
-      #   env:
-      #     GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: Shafkathasan/Shafkathasan
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
