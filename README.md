@@ -8,7 +8,7 @@
 - 💬 &nbsp;Ask me about anything related to Java/Html/Pyhon or YouTube/Video/Photo Editing
 - 📫 &nbsp;How to reach me: [@shafkathasan](https://m.me/shafkathasanbd) or <a rel="me" href="https://twitter.com/shafkathasanbd">twitter.com/@shafkathasanbd</a>
 - 👨‍💻 &nbsp;Read more about my projects at [github/shafkathasan](https://github.com/Shafkathasan)
-- ⚡ &nbsp;Fun fact: I :heart: :earth_asia: :mountain_snow:
+- ⚡ &nbsp;Fun fact: I :heart: 🌊 :mountain_snow:
 
 
 
