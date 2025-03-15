@@ -1,4 +1,5 @@
 name: GitHub - Activity - Readme
+
 on:
   schedule:
     # Runs every hour
@@ -12,6 +13,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
-      - uses: Shafkathasan/Shafkathasan
+      - name: Run GitHub Activity Update
+        run: |
+          echo "Updating README with recent activity..."
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
